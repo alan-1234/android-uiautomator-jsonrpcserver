@@ -4,3 +4,5 @@ bin
 .project
 .idea
 uiautomator-stub.iml
+local.properties
+*.jar
